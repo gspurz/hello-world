@@ -1,5 +1,6 @@
 # hello-world
 CS 35 at Harvey Mudd College!
+
 ![picture alt](https://www.hmc.edu/wp-content/themes/hmc-core-2/images/default-facebook-thumbnail.png)
 
 This page will archive all of the projects created by me in CS 35 at Harvey Mudd College. Enjoy!
