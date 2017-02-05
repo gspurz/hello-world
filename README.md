@@ -5,7 +5,7 @@ CS 35 at Harvey Mudd College!
 
 This page will archive all of the projects created by me in CS 35 at Harvey Mudd College. Enjoy!
 
-## HW Assignments ##
+# HW Assignments #
 hw0
   1. Phone number analysis
   2. Inaugural address insight
